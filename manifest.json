@@ -1,0 +1,20 @@
+[
+    {
+        "guid": "eb5d7894-8eef-4b36-aa6f-5d124e828ce1",
+        "name": "Recording Manager",
+        "description": "Recording Manager is a plugin that adds to the existing functionality for recording Live TV from within Jellyfin\n",
+        "overview": "Extend Live TV recording functionality",
+        "owner": "Samira",
+        "category": "Live TV",
+        "versions": [
+			      {
+                "version": "1.0.0.0",
+                "changelog": "First prototype",
+                "targetAbi": "1.0.0.0",
+                "sourceUrl": "https://github.com/koninginsamira/recording_manager/releases/download/1.0.0.0/recording-manager_1.0.0.0.zip",
+	        "checksum": "02bf2fe6c37b3af934a61af372b1b111",
+                "timestamp": "2025-05-26T12:20:00"
+            }
+        ]
+    }
+]
